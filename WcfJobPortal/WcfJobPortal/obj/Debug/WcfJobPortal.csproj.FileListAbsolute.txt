@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\WcfJobPortal\WcfJobPortal\bin\Debug\WcfJobPortal.dll.config
+C:\Users\Admin\source\repos\WcfJobPortal\WcfJobPortal\bin\Debug\WcfJobPortal.dll
+C:\Users\Admin\source\repos\WcfJobPortal\WcfJobPortal\bin\Debug\WcfJobPortal.pdb
+C:\Users\Admin\source\repos\WcfJobPortal\WcfJobPortal\obj\Debug\WcfJobPortal.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WcfJobPortal\WcfJobPortal\obj\Debug\WcfJobPortal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WcfJobPortal\WcfJobPortal\obj\Debug\WcfJobPortal.dll
+C:\Users\Admin\source\repos\WcfJobPortal\WcfJobPortal\obj\Debug\WcfJobPortal.pdb
+C:\Users\HP\Downloads\JobPortal\WcfJobPortal\WcfJobPortal\bin\Debug\WcfJobPortal.dll.config
+C:\Users\HP\Downloads\JobPortal\WcfJobPortal\WcfJobPortal\bin\Debug\WcfJobPortal.dll
+C:\Users\HP\Downloads\JobPortal\WcfJobPortal\WcfJobPortal\bin\Debug\WcfJobPortal.pdb
+C:\Users\HP\Downloads\JobPortal\WcfJobPortal\WcfJobPortal\obj\Debug\WcfJobPortal.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\JobPortal\WcfJobPortal\WcfJobPortal\obj\Debug\WcfJobPortal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\JobPortal\WcfJobPortal\WcfJobPortal\obj\Debug\WcfJobPortal.dll
+C:\Users\HP\Downloads\JobPortal\WcfJobPortal\WcfJobPortal\obj\Debug\WcfJobPortal.pdb

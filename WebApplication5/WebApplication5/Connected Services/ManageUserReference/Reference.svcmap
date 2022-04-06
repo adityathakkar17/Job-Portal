@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7d262569-f4ed-406e-81ea-6f1748652fd7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/ManageUserService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ManageUserService.wsdl" MetadataType="Wsdl" ID="7ecf8f9a-fca0-4cdc-a77d-cb04b4c2e4d9" SourceId="1" SourceUrl="http://localhost:8000/ManageUserService?wsdl" />
+    <MetadataFile FileName="ManageUserService.xsd" MetadataType="Schema" ID="8d1e11c8-4a29-40a9-b432-347715d108be" SourceId="1" SourceUrl="http://localhost:8000/ManageUserService?xsd=xsd1" />
+    <MetadataFile FileName="ManageUserService1.xsd" MetadataType="Schema" ID="8406431e-ea2d-4a6f-8c94-05ed3579d422" SourceId="1" SourceUrl="http://localhost:8000/ManageUserService?xsd=xsd2" />
+    <MetadataFile FileName="ManageUserService.disco" MetadataType="Disco" ID="069465b0-7f75-4c93-8351-b3f7e78a1abd" SourceId="1" SourceUrl="http://localhost:8000/ManageUserService?disco" />
+    <MetadataFile FileName="ManageUserService2.xsd" MetadataType="Schema" ID="efd06638-f938-4fcc-acc1-9640958d10f4" SourceId="1" SourceUrl="http://localhost:8000/ManageUserService?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

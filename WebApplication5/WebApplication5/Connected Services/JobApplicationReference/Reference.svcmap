@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f38d261f-28a0-4cbc-b42d-563337177e8c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/JobApplicationService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="JobApplicationService.xsd" MetadataType="Schema" ID="7b67d9d3-dfbc-4e33-b8e8-d34c06db26a0" SourceId="1" SourceUrl="http://localhost:8000/JobApplicationService?xsd=xsd0" />
+    <MetadataFile FileName="JobApplicationService.disco" MetadataType="Disco" ID="01362b52-2123-4b2d-bac3-18bae3b44a4d" SourceId="1" SourceUrl="http://localhost:8000/JobApplicationService?disco" />
+    <MetadataFile FileName="JobApplicationService1.xsd" MetadataType="Schema" ID="28f5898c-26e9-4735-b010-a84926292038" SourceId="1" SourceUrl="http://localhost:8000/JobApplicationService?xsd=xsd2" />
+    <MetadataFile FileName="JobApplicationService.wsdl" MetadataType="Wsdl" ID="a66a4a06-22bf-49ab-819c-f4e211d210f5" SourceId="1" SourceUrl="http://localhost:8000/JobApplicationService?wsdl" />
+    <MetadataFile FileName="JobApplicationService2.xsd" MetadataType="Schema" ID="a4eb5a37-a511-4540-82a3-b02d1c96cd17" SourceId="1" SourceUrl="http://localhost:8000/JobApplicationService?xsd=xsd1" />
+    <MetadataFile FileName="JobApplicationService3.xsd" MetadataType="Schema" ID="0adf362c-9138-4756-8786-5329cd3c7a07" SourceId="1" SourceUrl="http://localhost:8000/JobApplicationService?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

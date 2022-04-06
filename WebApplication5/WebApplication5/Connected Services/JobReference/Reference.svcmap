@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="85928d5c-8d7e-49b0-8bb2-c9fc2ad67515" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/JobService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="JobService.xsd" MetadataType="Schema" ID="b4ba985d-8e9d-4e45-bc85-fa32c248b19a" SourceId="1" SourceUrl="http://localhost:8000/JobService?xsd=xsd2" />
+    <MetadataFile FileName="JobService.wsdl" MetadataType="Wsdl" ID="f0ea87b0-eb6f-43d6-86cc-b9b3d06afb83" SourceId="1" SourceUrl="http://localhost:8000/JobService?wsdl" />
+    <MetadataFile FileName="JobService1.xsd" MetadataType="Schema" ID="b08fd438-6592-4008-ab5b-a5519f28b10d" SourceId="1" SourceUrl="http://localhost:8000/JobService?xsd=xsd0" />
+    <MetadataFile FileName="JobService.disco" MetadataType="Disco" ID="f4c04d83-2d1f-4234-b322-dd0e7291aa1f" SourceId="1" SourceUrl="http://localhost:8000/JobService?disco" />
+    <MetadataFile FileName="JobService2.xsd" MetadataType="Schema" ID="46a1be43-b418-4fd7-af11-6337cfa9b625" SourceId="1" SourceUrl="http://localhost:8000/JobService?xsd=xsd1" />
+    <MetadataFile FileName="JobService3.xsd" MetadataType="Schema" ID="962af630-6d63-402f-aff8-5ca6b37c791c" SourceId="1" SourceUrl="http://localhost:8000/JobService?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
